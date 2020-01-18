@@ -41,7 +41,7 @@ A web application that allows you to automate your sales emails! Upload a list o
 ## Running app locally
 
 Starting the client:
-- Go to client directory and run `npm run`
+- Go to client directory and run `npm start`
 
 Starting the server:
 - Go to server directory and run `flask run`
